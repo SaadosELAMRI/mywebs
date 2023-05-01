@@ -8,6 +8,9 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "engines": {
+    "node": "0.8.28"
+  },
   "dependencies": {
     "dns": "^0.2.2",
     "fs": "^0.0.1-security",
